@@ -1,0 +1,45 @@
+title: "Davide Fucci"
+baseurl: ""
+
+first-name: 'Davide'
+last-name: 'Fucci'
+job-title: 'Research Scientist at <a href="http://ic.epfl.ch/">EPFL</a><br/>Executive Director of the <a href="http://scala.epfl.ch/">Scala Center</a>'
+profpic: '/resources/img/profilepic.png'
+profpic-retina: '/resources/img/profilepic@2x.png'
+twitter: dfucci_
+email: 'fucci@informatik.uni-hamburg'
+github: 'dfucci'
+location: 'MAST, Fachbereich Informatik, University of Hamburg'
+location-url: "https://www.google.com/maps/place/46%C2%B031'06.3%22N+6%C2%B033'44.6%22E/@46.5188495,6.5633963,18z/data=!4m2!3m1!1s0x0:0x0"
+
+# For syntax highlighting, the primary programming langauge you intend to use in
+# blog articles. By default, Google's prettify will be used for this programming
+# language, as per the instructions here: https://github.com/google/code-prettify
+# For example, if I indicate `scala`, all pre/code blocks will have the `lang-scala`
+# class added to the markup, triggering prettify to highlight the syntax as Scala.
+# primarylanguage: scala
+# To sidestep the default language for syntax highlighting set here, you can be
+# explicit in your blog articles with the langauge you'd prefer to use. E.g.,
+# <pre>
+#   <code class="prettyprint lang-ruby">
+#    ..ruby code here...
+#   </code>
+# </pre>
+
+# categories:
+#   blog:
+#     permalink: /blog/:title.html
+
+# Settings for blog RSS feed
+# name: "Heather Miller Blog"
+# description: ""
+# url: "http://heather.miller.am"
+
+# permalink: /:categories/:title.html
+# # markdown: redcarpet
+# highlighter: null
+
+sass:
+  style: compressed
+
+livereload: true
