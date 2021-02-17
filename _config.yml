@@ -6,10 +6,10 @@ last-name: 'Fucci'
 profpic: '/resources/img/profilepic.png'
 profpic-retina: '/resources/img/profilepic@2x.png'
 twitter: dfucci_
-email: 'fucci@informatik.uni-hamburg'
+email: 'davide.fucci@bth.se'
 github: 'dfucci'
-location: 'MAST, Fachbereich Informatik, University of Hamburg'
-location-url: "https://www.google.com/maps/place/46%C2%B031'06.3%22N+6%C2%B033'44.6%22E/@46.5188495,6.5633963,18z/data=!4m2!3m1!1s0x0:0x0"
+location: 'Blekinge Institute of Technology'
+location-url: ""
 
 
 sass:
