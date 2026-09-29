@@ -1,0 +1,64 @@
+# recent and cited render on the front page; archive is kept for reference only.
+recent:
+- title: 'Preparing for the EU Cyber Resilience Act: A study with four Swedish companies'
+  authors: O. Novikov, D. Fucci, D. Mendez, O. Adamov
+  venue: Information and Software Technology
+  tag: IST 2026
+  url: https://www.sciencedirect.com/science/article/pii/S0950584926003101
+- title: Validating Threat Modeling Results with the Help of Vulnerable Test Applications
+  authors: O. Adamov, D. Fucci, F. V. Jedrzejewski, R. Britto, N. Saini
+  venue: 32nd International Conference on Telecommunications
+  tag: ICT 2026
+  url: https://ieeexplore.ieee.org/abstract/document/11594664/
+- title: 'Policy-Driven Software Bill of Materials on GitHub: An Empirical Study'
+  authors: O. Novikov, D. Fucci, O. Adamov, D. Mendez
+  venue: Intl. Conf. on Product-Focused Software Process Improvement
+  tag: PROFES 2025
+  url: https://doi.org/10.1007/978-3-032-12089-2_16
+- title: 'Privacy by design: Aligning GDPR and software engineering specifications with a requirements engineering approach'
+  authors: O. Kosenkov, E. Zabardast, D. Fucci, D. Mendez, M. Unterkalmsteiner
+  venue: Information and Software Technology
+  tag: IST 2026
+  url: https://www.sciencedirect.com/science/article/pii/S095058492500285X
+- title: Reflections on the Reproducibility of Commercial LLM Performance in Empirical Software Engineering Studies
+  authors: F. Angermeir, M. Amougou, M. Kreitz, A. Bauer, M. Linhuber, D. Fucci, D. Mendez, T. Gorschek
+  venue: Intl. Conf. on Software Engineering
+  tag: ICSE 2026
+  url: https://arxiv.org/abs/2510.25506
+cited:
+- title: 'A Dissection of the test-driven Development Process: Does it Really Matter to Test-first or to Test-last?'
+  authors: D. Fucci, H. Erdogmus, B. Turhan, M. Oivo, N. Juristo
+  venue: IEEE Transactions on Software Engineering
+  tag: TSE 2017
+  url: https://arxiv.org/pdf/1611.05994.pdf
+- title: Recognizing Developers' Emotions while Programming
+  authors: D. Girardi, N. Novielli, D. Fucci, F. Lanubile
+  venue: ACM/IEEE 42nd International Conference on Software Engineering
+  tag: ICSE 2020
+  url: https://doi.org/10.1145/3377811.3380374
+- title: 'Empirical Research on Requirements Quality: A Systematic Mapping Study'
+  authors: L. Montgomery, D. Fucci, A. Bouraffa, L. Scholz, W. Maalej
+  venue: Requirements Engineering Journal
+  tag: REEN 2022
+  url: https://doi.org/10.1007/s00766-022-00378-4
+- title: 'Empirical evaluation of the effects of experience on code quality and programmer productivity: an exploratory study'
+  authors: O. Dieste, A. M. Aranda, F. Uyaguari, B. Turhan, A. Tosun, D. Fucci, M. Oivo, N. Juristo
+  venue: Empirical Software Engineering Journal
+  tag: EMSE 2018
+  url: https://link.springer.com/article/10.1007/s10664-016-9471-3
+- title: 'Cognition in software engineering: A taxonomy and survey of a half-century of research'
+  authors: F. Fagerholm, M. Felderer, D. Fucci, M. Unterkalmsteiner, B. Marculescu, M. Martini, L. G. Wallgren Tengberg, R. Feldt, B. Lehtelä, B. Nagyváradi, J. Khattak
+  venue: ACM Computing Surveys
+  tag: CSUR 2022
+  url: https://dl.acm.org/doi/10.1145/3508359
+archive:
+- title: 'Augmenting software bills of materials with software vulnerability description: A preliminary study on GitHub'
+  authors: D. Fucci, M. Di Penta, S. Romano, G. Scanniello
+  venue: ACM Intl. Conf. on Foundations of Software Engineering
+  tag: FSE 2025
+  url: https://dl.acm.org/doi/abs/10.1145/3696630.3728513
+- title: Systematic mapping study on requirements engineering for regulatory compliance of software systems
+  authors: O. Kosenkov, P. Elahidoost, T. Gorschek, J. Fischbach, D. Mendez, M. Unterkalmsteiner, D. Fucci, R. Mohanani
+  venue: Information and Software Technology
+  tag: IST 2025
+  url: https://dl.acm.org/doi/10.1145/3688837

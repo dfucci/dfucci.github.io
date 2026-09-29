@@ -1,0 +1,18 @@
+<span class="subsec-head">{{ include.section.heading | escape }}</span>
+<table class="table service-table{% if include.section.fullwidth %} is-fullwidth{% endif %}">
+  <tbody>
+    {% for item in include.section.items %}
+    <tr>
+      <th>
+        {% if item.url %}<a href="{{ item.url }}">{{ item.name | escape }}</a>{% else %}{{ item.name | escape }}{% endif %}
+        <div class="abbrv">{{ item.description | escape }}</div>
+      </th>
+      {% if item.years.first.label %}
+      <td nowrap>{% for year in item.years %}<a href="{{ year.url }}">{{ year.label }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</td>
+      {% elsif item.years %}
+      <td nowrap>{{ item.years }}</td>
+      {% endif %}
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

@@ -1,0 +1,14 @@
+<div class="teaching-head">{{ include.institution.institution | escape }}</div>
+<table class="table teaching">
+  <tbody>
+    {% for course in include.institution.courses %}
+    <tr>
+      <th>{% if course.url %}<a href="{{ course.url }}">{{ course.title | escape }}</a>{% else %}{{ course.title | escape }}{% endif %}</th>
+      <td nowrap>{{ course.period }}</td>
+    </tr>
+    <tr>
+      <td>{{ course.description | escape }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

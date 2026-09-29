@@ -1,0 +1,131 @@
+# Front page columns (left, right), each a list of sections. `years` is a string, or a list of {label, url}.
+left:
+- heading: Principal Organizer
+  items:
+  - name: SERLConf
+    description: Software Engineering Research Lab Conference, Blekinge Institute of Technology
+    years: '2026'
+  - name: MO2RE
+    description: Intl. Workshop on Multi-disciplinary, Open, and RElevant Requirements Engineering
+    url: https://mo2re.github.io
+    years: 2024-2027
+  - name: SEmotion
+    description: Intl. Workshop on Emotion Awareness in Software Engineering
+    url: https://semotion.github.io/2020
+    years: 2019, 2020
+  - name: NLP4RE
+    description: Third Workshop on Natural Language Processing for Requirements Engineering
+    url: http://nlp4re.github.io/2020
+    years: '2020'
+  - name: AffectRE
+    description: Intl. Workshop on Affective Computing for Requirements Engineering
+    url: https://mast.informatik.uni-hamburg.de/affectre/
+    years: 2018, 2019
+- heading: Organizing Committee Member
+  items:
+  - name: RE
+    description: IEEE International Requirements Engineering Conference
+    years:
+    - label: '2026'
+      url: https://conf.researchr.org/committee/RE-2026/RE-2026-organizing-committee
+    - label: '2025'
+      url: https://conf.researchr.org/committee/RE-2025/RE-2025-organizing-committee
+  - name: ESEM
+    description: ACM/IEEE International Symposium on Empirical Software Engineering and Measurement
+    years:
+    - label: '2024'
+      url: https://conf.researchr.org/committee/esem-2024/esem-2024-organizing-committee
+    - label: '2023'
+      url: https://conf.researchr.org/committee/esem-2023/esem-2023-organizing-committee
+    - label: '2018'
+      url: http://eseiw2018.wixsite.com/esem2018
+  - name: ICSE
+    description: The 43rd IEEE/ACM International Conference on Software Engineering
+    url: https://2021.icse-conferences.org/committee/icse-2021-organizing-committe
+    years: '2021'
+- heading: Journal Associated Editor
+  items:
+  - name: ASE
+    description: Automated Software Engineering
+    years: '2026'
+  fullwidth: true
+- heading: Special Issue Editor
+  items:
+  - name: EMSE
+    description: Empirical Software Engineering Journal
+    years:
+    - label: '2026'
+      url: https://emsejournal.github.io/special_issues/2026_SI_HumanAISE_SEEAIT.html
+  fullwidth: true
+right:
+- heading: Program Committee Member
+  items:
+  - name: ICSE
+    description: ACM/IEEE International Conference on Software Engineering
+    years: 2025–2027
+  - name: FSE
+    description: ACM/IEEE International Conference on Foundations of Software Engineering
+    years: '2027'
+  - name: ASE
+    description: ACM/IEEE International Conference on Automated Software Engineering
+    years: 2026, 2027
+  - name: ICPC
+    description: ACM/IEEE International Conference on Program Comprehension
+    years: 2019, 2021-2022
+  - name: RE
+    description: ACM/IEEE International Conference on Requirements Engineering
+    years: 2021-2024
+  - name: CHASE
+    description: ACM/IEEE International Conference on Cooperative and Human Aspects of Software Engineering
+    years: 2019-2025
+  - name: ECSA
+    description: ACM/IEEE European Conference on Software Architecture
+    years: '2021'
+  - name: SANER
+    description: ACM/IEEE International Conference on Software Analysis, Evolution, and Re-engineering
+    years: 2020-2024
+  - name: REFSQ
+    description: 'International. Working Conference on Requirements Engineering: Foundation for Software Quality'
+    years: 2019-2021, 2023-2024
+  - name: ESEM
+    description: ACM/IEEE International Symposium on Empirical Software Engineering and Measurement
+    years: 2015–2026
+  - name: ICSSP
+    description: International Conference on Software and System Processes
+    years: 2016–2021
+  - name: EASE
+    description: IEEE International Conference on Evaluation and Assessment in Software Engineering
+    years: 2018–2020, 2023–2024
+  - name: PROFES
+    description: International Conference on on Product-Focused Software Process Improvement
+    years: 2018-2020
+  - name: SEAA
+    description: Euromicro Conference Software Engineering and Advanced Applications
+    years: '2018'
+  - name: XP
+    description: International Conference on Agile Software Development
+    years: '2014'
+- heading: Journal Reviewer
+  items:
+  - name: S&P
+    description: IEEE Security and Privacy
+  - name: CSUR
+    description: ACM Computing Surveys
+  - name: TSE
+    description: IEEE Transactions on Software Engineering
+  - name: TOSEM
+    description: IEEE Transactions on Software Engineering and Methodology
+  - name: REEN
+    description: Requirements Engineering Journal
+  - name: EMSE
+    description: Empirical Software Engineering Journal
+  - name: IST
+    description: Information and Software Technology Journal
+  - name: JSS
+    description: Journal of Software and Systems
+  - name: STVR
+    description: Software Testing, Verification and Reliability Journal
+  - name: SQJ
+    description: Software Quality Journal
+  - name: JSME
+    description: 'Journal of Software Maintenance and Evolution: Research and Practice'

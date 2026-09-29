@@ -1,0 +1,54 @@
+# Front page columns (left, right), each a list of institutions.
+left:
+- institution: Blekinge Institute of Technology
+  courses:
+  - title: Adaptive Lean Software Testing
+    period: Spring 2024
+    url: https://www.bth.se/eng/education/courses/20241/BKATY/
+    description: This course provides techniques and tools for verification and validation of software in environments where the principles for adaptive, Agile, or Lean software development are employed.
+  - title: Security Inventory for Software Development
+    period: Fall 2022–2023
+    url: https://plan.bth.se/courses/PA2587
+    description: This course is aimed at professionals working in software development. The lectures cover different models integrating security in the SDLC. The course enables students to assess the maturity of secure software development processes and plan for their improvement.
+  - title: Software Testing
+    period: Spring 2021–2026
+    url: https://plan.bth.se/courses/PA1465
+    description: Lectures on different testing strategies, including black-box, white-box, and exploratory testing.
+  - title: Quality Assurance of Security Aware Applications
+    period: Spring 2022, 2023
+    url: https://plan.bth.se/courses/PA2586
+    description: This course is aimed at professionals working in software development. Fundamental testing practices applied to secure software development. Integration of automated software testing to verify software security.
+  - title: Global Software Development
+    period: Fall 2019—2023
+    url: https://plan.bth.se/courses/PA1471
+    description: Lectures on strategy for outsourcing software development, distributed development and tools.
+- institution: Zhejiang University of Technology (Visiting lecturer)
+  courses:
+  - title: Software Testing
+    period: Spring 2025, 2026
+    description: Lectures on different testing strategies, including black-box, white-box, and exploratory testing, with a focus on testing AI systems.
+right:
+- institution: University of Hamburg
+  courses:
+  - title: Software Patterns
+    period: Spring 2017, 2018
+    url: https://mast.informatik.uni-hamburg.de/lecture-emse-patterns/
+    description: Lectures on design patterns, SOLID principles, testing, and continuous deployment.
+  - title: Empirical Software Engineering
+    period: Spring 2017, 2018
+    url: https://mast.informatik.uni-hamburg.de/seminar-emse/
+    description: Seminars on both qualitative and quantitative research methods discussing their applications to software projects.
+- institution: University of Oulu
+  courses:
+  - title: Software Quality and Testing
+    period: Fall 2013–2016
+    url: https://noppa.oulu.fi/noppa/kurssi/815311a/esite
+    description: Lectures on software quality assurance, and quality management. Hands-on fundamentals about software testing and test automation.
+  - title: Software Development in Global Environment
+    period: Fall 2013–2015
+    url: https://noppa.oulu.fi/noppa/kurssi/817602s/esite
+    description: Lectures on distributed software development, with a focus on communication and knowledge management challenges.
+  - title: Software Engineering Management, Measurement and Improvement
+    period: Spring 2014
+    url: https://noppa.oulu.fi/noppa/kurssi/815662s/esite
+    description: Lectures on fundamental software processes, software measurement methods, and latest research results.
