@@ -4,7 +4,9 @@ document.addEventListener('DOMContentLoaded', function () {
 	
   // get current year and put it in span
   var currYear = new Date().getFullYear();
-  $(".current-year").text(currYear);		
+  document.querySelectorAll(".current-year").forEach(function (el) {
+    el.textContent = currYear;
+  });		
 	
 
   // Navbar

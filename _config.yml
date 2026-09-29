@@ -3,8 +3,6 @@ baseurl: ""
 
 first-name: 'Davide'
 last-name: 'Fucci'
-profpic: '/resources/img/profilepic.png'
-profpic-retina: '/resources/img/profilepic@2x.png'
 twitter: dfucci_
 email: 'davide.fucci@bth.se'
 github: 'dfucci'
