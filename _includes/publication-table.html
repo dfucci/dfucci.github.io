@@ -1,0 +1,19 @@
+<table class="table publications">
+  <tbody>
+    {% for pub in include.items %}
+    <tr>
+      <td>
+        <div class="pub-title">{{ pub.title | escape }}</div>
+        <div class="pub-authors">{{ pub.authors | escape }}</div>
+        <div class="pub-conf-journal-name">{{ pub.venue | escape }}</div>
+        <div class="pub-meta"><a href="{{ pub.url }}">
+          <span class="tag pub-tag">PDF</span>
+        </a></div>
+      </td>
+      <td nowrap>
+        <div class="pub-conf-abbrv">{{ pub.tag | escape }}</div>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
