@@ -43,10 +43,13 @@ left:
     description: The 43rd IEEE/ACM International Conference on Software Engineering
     url: https://2021.icse-conferences.org/committee/icse-2021-organizing-committe
     years: '2021'
-- heading: Journal Associated Editor
+- heading: Associated Editor
   items:
   - name: ASE
-    description: Automated Software Engineering
+    description: Automated Software Engineering Journal
+    years: '2026'
+  - name: SQJ
+    description: Software Quality Journal
     years: '2026'
   fullwidth: true
 - heading: Special Issue Editor
