@@ -1,0 +1,55 @@
+# Grants & Awards columns (left, right), each a list of sections. `years` is a string.
+# `name` and `url` are optional; line breaks in `description` render as <br>.
+left:
+- heading: Knowledge Foundation (KKS)
+  items:
+  - description: |-
+      Hög programme
+      SEcure software through Sensible AutoMation (SESAM)
+      $740 000
+    years: Nov 2024–Dec 2027
+- heading: Nokia Foundation
+  items:
+  - description: Scholarship recipient
+    years: '2014'
+- heading: ISACA
+  items:
+  - description: Finland chapter scholarship recipient
+    years: '2014'
+right:
+- heading: Distinguished Reviewer Award
+  items:
+  - name: ESEM 2026
+    description: 20th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement
+    url: https://conf.researchr.org/home/eseiw-2026
+    years: '2026'
+  - name: CHASE 2023
+    description: 16th International Conference on Cooperative and Human Aspects of Software Engineering
+    url: https://conf.researchr.org/home/chase-2023
+    years: '2023'
+- heading: Open Data Recognition Award
+  items:
+  - name: ESEM 2018
+    description: 12th International Symposium on Empirical Software Engineering and Measurement
+    url: http://eseiw2018.wixsite.com/esem2018
+    years: '2018'
+- heading: Best Full Paper Award
+  items:
+  - name: ESEM 2020 (Industry Track)
+    description: 14th International Symposium on Empirical Software Engineering and Measurements
+    url: https://eseiw2020.di.uniba.it/esem_conf
+    years: '2020'
+  - name: SEAA 2020
+    description: Euromicro Conference on Software Engineering and Advanced Applications
+    url: https://dsd-seaa2020.um.si/seaa/
+    years: '2020'
+  - name: ESEM 2016
+    description: 10th International Symposium on Empirical Software Engineering and Measurement
+    url: http://alarcos.esi.uclm.es/eseiw2016/esem
+    years: '2016'
+- heading: Highly Commended Paper Award
+  items:
+  - name: EASE 2016
+    description: 20th International Conference on Evaluation and Assessment in Software Engineering
+    url: http://ease2016.lero.ie/
+    years: '2016'

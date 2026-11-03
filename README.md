@@ -9,4 +9,4 @@ To deploy:
     git push deploy master
 
 
-To update content, edit `_data/publications.yml`, `_data/service.yml`, or `_data/teaching.yml`.
+To update content, edit `_data/publications.yml`, `_data/service.yml`, `_data/awards.yml`, or `_data/teaching.yml`.

@@ -151,118 +151,14 @@
           </div>
         </div>
         <div class="column">
-          <span class="subsec-head">Knowledge Foundation (KKS)</span>
-          <table class="table service-table">
-            <tbody>
-              <tr>
-                <th>
-                  <div class="abbrv">H&ouml;g programme</br>SEcure software through Sensible AutoMation (SESAM)</br>$740 000
-                  </div>
-                </th>
-                <td nowrap>Nov 2024–Dec 2027</td>
-              </tr>
-            </tbody>
-          </table>
-          <span class="subsec-head">Nokia Foundation</span>
-          <table class="table service-table">
-            <tbody>
-              <tr>
-                <th>
-                  <div class="abbrv">Scholarship recipient</div>
-                </th>
-                <td nowrap>2014</td>
-              </tr>
-            </tbody>
-          </table>
-
-          <span class="subsec-head">ISACA</span>
-          <table class="table service-table">
-            <tbody>
-              <tr>
-                <th>
-                  <div class="abbrv">Finland chapter scholarship recipient</div>
-                </th>
-                <td nowrap>2014</td>
-              </tr>
-            </tbody>
-          </table>
+          {% for section in site.data.awards.left %}
+          {% include service-section.html section=section %}
+          {% endfor %}
         </div>
         <div class="column">
-          <span class="subsec-head">Distinguished Reviewer Award</span>
-          <table class="table service-table">
-            <tbody>
-              <tr>
-                <th>
-                  <a href="https://conf.researchr.org/home/eseiw-2026">ESEM 2026</a>
-                  <div class="abbrv">20th ACM/IEEE International Symposium on Empirical Software Engineering and
-                    Measurement</div>
-                </th>
-                <td nowrap>2026</td>
-              </tr>
-              <tr>
-                <th>
-                  <a href="https://conf.researchr.org/home/chase-2023">CHASE 2023</a>
-                  <div class="abbrv">16th International Conference on Cooperative and Human Aspects of Software
-                    Engineering</div>
-                </th>
-                <td nowrap>2023</td>
-              </tr>
-            </tbody>
-          </table>
-          <span class="subsec-head">Open Data Recognition Award</span>
-          <table class="table service-table">
-            <tbody>
-              <tr>
-                <th>
-                  <a href="http://eseiw2018.wixsite.com/esem2018">ESEM 2018</a>
-                  <div class="abbrv">12th International Symposium on Empirical Software Engineering and Measurement
-                  </div>
-                </th>
-                <td nowrap>2018</td>
-              </tr>
-            </tbody>
-          </table>
-          <span class="subsec-head">Best Full Paper Award</span>
-          <table class="table service-table">
-            <tbody>
-              <tr>
-                <th>
-                  <a href="https://eseiw2020.di.uniba.it/esem_conf">ESEM 2020 (Industry Track)</a>
-                  <div class="abbrv">14th International Symposium on Empirical Software Engineering and Measurements
-                  </div>
-                </th>
-                <td nowrap>2020</td>
-              </tr>
-              <tr>
-                <th>
-                  <a href="https://dsd-seaa2020.um.si/seaa/">SEAA 2020</a>
-                  <div class="abbrv">Euromicro Conference on Software Engineering and Advanced Applications</div>
-                </th>
-                <td nowrap>2020</td>
-              </tr>
-              <tr>
-                <th>
-                  <a href="http://alarcos.esi.uclm.es/eseiw2016/esem">ESEM 2016</a>
-                  <div class="abbrv">10th International Symposium on Empirical Software Engineering and Measurement
-                  </div>
-                </th>
-                <td nowrap>2016</td>
-              </tr>
-            </tbody>
-          </table>
-          <span class="subsec-head">Highly Commended Paper Award</span>
-          <table class="table service-table">
-            <tbody>
-              <tr>
-                <th>
-                  <a href="http://ease2016.lero.ie/">EASE 2016</a>
-                  <div class="abbrv">20th International Conference on Evaluation and Assessment in Software Engineering
-                  </div>
-                </th>
-                <td nowrap>2016</td>
-              </tr>
-            </tbody>
-          </table>
+          {% for section in site.data.awards.right %}
+          {% include service-section.html section=section %}
+          {% endfor %}
         </div>
       </div>
     </div>
