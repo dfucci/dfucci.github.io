@@ -2,6 +2,10 @@
 left:
 - institution: Blekinge Institute of Technology
   courses:
+  - title: Master's Programme in AI and Software Engineering
+    period: From January 2027
+    url: https://www.bth.se/english/education/programmes/masters-programme-in-ai-and-software-engineering-120-credits
+    description: Programme manager.
   - title: Adaptive Lean Software Testing
     period: Spring 2024
     url: https://www.bth.se/eng/education/courses/20241/BKATY/
