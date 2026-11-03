@@ -43,6 +43,12 @@ left:
     description: The 43rd IEEE/ACM International Conference on Software Engineering
     url: https://2021.icse-conferences.org/committee/icse-2021-organizing-committe
     years: '2021'
+- heading: Track Chair
+  items:
+  - name: QUATIC
+    description: Intl. Conference on the Quality of Information and Communications Technology, Verification, Validation, and Testing track
+    url: https://2026.quatic.org/thematic-tracks/verification-validation-and-testing
+    years: '2026'
 - heading: Associated Editor
   items:
   - name: ASE
