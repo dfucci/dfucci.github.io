@@ -1,5 +1,10 @@
 # recent and cited render on the front page; archive is kept for reference only.
 recent:
+- title: 'Replications, Revisions, and Reanalyses: Managing Empirical Evidence in Software Engineering'
+  authors: J. Frattini, J. Fischbach, D. Fucci, M. Unterkalmsteiner, D. Mendez, R. Feldt, R. Torkar
+  venue: Frontiers in Computer Science
+  tag: FCS 2026
+  url: https://doi.org/10.3389/fcomp.2026.1937190
 - title: 'Preparing for the EU Cyber Resilience Act: A study with four Swedish companies'
   authors: O. Novikov, D. Fucci, D. Mendez, O. Adamov
   venue: Information and Software Technology
