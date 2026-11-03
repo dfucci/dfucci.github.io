@@ -30,6 +30,10 @@ left:
       url: https://conf.researchr.org/committee/RE-2026/RE-2026-organizing-committee
     - label: '2025'
       url: https://conf.researchr.org/committee/RE-2025/RE-2025-organizing-committee
+  - name: QUATIC
+    description: Intl. Conference on the Quality of Information and Communications Technology (Verification, Validation, and Testing track chair)
+    url: https://2026.quatic.org/thematic-tracks/verification-validation-and-testing
+    years: '2026'
   - name: ESEM
     description: ACM/IEEE International Symposium on Empirical Software Engineering and Measurement
     years:
@@ -43,12 +47,6 @@ left:
     description: The 43rd IEEE/ACM International Conference on Software Engineering
     url: https://2021.icse-conferences.org/committee/icse-2021-organizing-committe
     years: '2021'
-- heading: Track Chair
-  items:
-  - name: QUATIC
-    description: Intl. Conference on the Quality of Information and Communications Technology, Verification, Validation, and Testing track
-    url: https://2026.quatic.org/thematic-tracks/verification-validation-and-testing
-    years: '2026'
 - heading: Associated Editor
   items:
   - name: ASE
