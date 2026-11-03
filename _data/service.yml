@@ -33,7 +33,9 @@ left:
   - name: QUATIC
     description: Intl. Conference on the Quality of Information and Communications Technology (Verification, Validation, and Testing track chair)
     url: https://2026.quatic.org/thematic-tracks/verification-validation-and-testing
-    years: '2026'
+    years:
+    - label: '2026'
+      url: https://2026.quatic.org/thematic-tracks/verification-validation-and-testing
   - name: ESEM
     description: ACM/IEEE International Symposium on Empirical Software Engineering and Measurement
     years:
